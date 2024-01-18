@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+  <h2>apresentação<h2>
+</head>
 <body>
 
   <h1>👋 Olá, eu sou wolk</h1>
@@ -18,6 +20,9 @@
 
   <h2>🛠️ Cultura Maker</h2>
   <p>Sou entusiasta da cultura maker, apaixonado por criar coisas com as próprias mãos. Adoro explorar projetos DIY (faça você mesmo) e encontrar maneiras inovadoras de unir a tecnologia com a criatividade, seja construindo dispositivos eletrônicos ou experimentando com novas ideias.</p>
+
+  <h2>🐍 Python Enthusiast</h2>
+  <p>Tenho uma paixão especial por Python. Essa linguagem de programação versátil e poderosa é uma ferramenta que utilizo para explorar soluções inovadoras e eficientes. Seja no desenvolvimento de projetos acadêmicos, scripts automatizados ou análise de dados, Python é uma parte fundamental do meu arsenal tecnológico.</p>
 
   <h2>🎮 Game Development</h2>
   <p>Tenho um interesse crescente em ser um desenvolvedor de jogos (game dev). Explorar a interseção entre a programação, design e narrativa para criar experiências interativas é algo que me fascina. Estou sempre buscando aprender mais sobre o mundo dos jogos e como posso contribuir para esse universo emocionante.</p>
