@@ -1,34 +1,14 @@
+## 📝 **Sobre Mim**
 
- <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <h2>apresentação<h2>
-</head>
-<body>
+Sou **Elias Wolk**, professor de física e estudante de Análise e Desenvolvimento de Sistemas (ADS). Tenho paixão por tecnologia e cultura maker, e busco sempre inspirar meus alunos. Além disso, me interesso por desenvolvimento de jogos e utilizo Python para criar soluções inovadoras. Estou sempre aberto a aprender e colaborar com outras pessoas que compartilham esses interesses.
 
-  <h1>👋 Olá, eu sou wolk</h1>
+## 🚀 **Linguagens e Tecnologias**
 
-  <p>Sou professor de física apaixonado por ensinar e entusiasta de tecnologia, atualmente estudante de Análise e Desenvolvimento de Sistemas (ADS).</p>
+| Estatísticas         |    |
+|---------------------|----|
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elias-wolk&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-wolk&layout=compact&langs_count=6) |
 
-  <h2>🔬 Professor de Física</h2>
-  <p>Minha jornada profissional é marcada pelo desejo de inspirar estudantes a explorar e compreender os fascinantes princípios da física. Acredito que o conhecimento é a chave para desbloquear o potencial criativo e crítico de cada indivíduo.</p>
+<div style="text-align: center; color: white; background-color: #0000FF;">
+  <p>elias Wolk</p>
+</div>
 
-  <h2>💻 Estudante de ADS</h2>
-  <p>Além da física, tenho um profundo interesse no mundo da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde mergulho no universo do desenvolvimento de software, algoritmos e soluções inovadoras para desafios do mundo real.</p>
-
-  <h2>🛠️ Cultura Maker</h2>
-  <p>Sou entusiasta da cultura maker, apaixonado por criar coisas com as próprias mãos. Adoro explorar projetos DIY (faça você mesmo) e encontrar maneiras inovadoras de unir a tecnologia com a criatividade, seja construindo dispositivos eletrônicos ou experimentando com novas ideias.</p>
-
-  <h2>🐍 Python Enthusiast</h2>
-  <p>Tenho uma paixão especial por Python. Essa linguagem de programação versátil e poderosa é uma ferramenta que utilizo para explorar soluções inovadoras e eficientes. Seja no desenvolvimento de projetos acadêmicos, scripts automatizados ou análise de dados, Python é uma parte fundamental do meu arsenal tecnológico.</p>
-
-  <h2>🎮 Game Development</h2>
-  <p>Tenho um interesse crescente em ser um desenvolvedor de jogos (game dev). Explorar a interseção entre a programação, design e narrativa para criar experiências interativas é algo que me fascina. Estou sempre buscando aprender mais sobre o mundo dos jogos e como posso contribuir para esse universo emocionante.</p>
-
-  <h2>🌐 Conecte-se comigo</h2>
-  <p>Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para explorar meus projetos e entrar em contato para discutir sobre física, tecnologia, Python, cultura maker, desenvolvimento de jogos ou qualquer tópico interessante.</p>
-
-</body>
-</html>
