@@ -17,4 +17,3 @@ Aqui estão as tecnologias que utilizo em meus projetos no GitHub:
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-wolk&layout=compact&theme=radical)
 
-
