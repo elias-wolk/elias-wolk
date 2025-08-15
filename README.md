@@ -8,7 +8,6 @@
       <strong>Professor</strong><br>
       <ul>
         <li>Grande experiência em matemática e física</li>
-        <li>Interesse em Arduino e circuitos eletrônicos</li>
         <li>Explorando novas formas de ensino com tecnologia</li>
       </ul>
     </td>
